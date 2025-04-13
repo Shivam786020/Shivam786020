@@ -1,6 +1,6 @@
 # Shivam786020Dev
 <h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left">🌱 I’m currently working on a <strong>Data Structure App</strong><br>
 👨‍💻 All of my projects are available at <a href="https://github.com/Shivam786020Dev">GitHub</a><br>
